@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "maven.dependency.enableConflictDiagnostics": true,
+    "maven.executable.options": ""
+}
